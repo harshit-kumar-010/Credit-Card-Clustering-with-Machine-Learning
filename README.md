@@ -18,26 +18,31 @@ The primary goal of this project is to showcase my ability to perform advanced d
 
 ## **Technologies Used**
 
-Python
+- Python
 
-Pandas
+- Pandas
 
-NumPy
+- NumPy
 
-Scikit-learn
+- Scikit-learn
 
-Jupyter Notebook
+- Jupyter Notebook
 
 
 ## **Key Achievements**
 
-Conducted thorough data exploration to understand the characteristics of the dataset.
-Implemented data preprocessing techniques to clean and prepare the dataset for analysis.
-Utilized machine learning algorithms to perform clustering analysis on credit card customers.
-Generated insights into customer segmentation based on financial attributes and purchase behaviors.
+- Conducted thorough data exploration to understand the characteristics of the dataset.
+
+- Implemented data preprocessing techniques to clean and prepare the dataset for analysis.
+
+- Utilized machine learning algorithms to perform clustering analysis on credit card customers.
+
+- Generated insights into customer segmentation based on financial attributes and purchase behaviors.
 
 **Future Enhancements**
 
-Explore additional clustering algorithms to further refine customer segmentation.
-Incorporate visualization techniques to present clustering results in a more intuitive manner.
-Conduct A/B testing to validate the effectiveness of marketing strategies targeted at specific customer segments.
+- Explore additional clustering algorithms to further refine customer segmentation.
+
+- Incorporate visualization techniques to present clustering results in a more intuitive manner.
+
+- Conduct A/B testing to validate the effectiveness of marketing strategies targeted at specific customer segments.
